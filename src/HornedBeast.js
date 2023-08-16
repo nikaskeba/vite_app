@@ -1,4 +1,6 @@
 import React, { useState } from 'react';
+import { Card, Button } from 'react-bootstrap';
+import { Container, Row, Col } from 'react-bootstrap';
 
 function HornedBeast(props) {
   // Initialize state for favorites
@@ -10,8 +12,11 @@ function HornedBeast(props) {
   };
 
   return (
-    <div>
-      <h2>{props.title}</h2>
+    
+    <Container>
+    <Row>
+      <Card.Title>{props.title}</Card.Title>
+<Col>
       <img style={{width: '100px'}} src={props.imageUrl} alt={props.title} title={props.title} />
       <p>{props.description}</p>
       <p>
@@ -20,7 +25,10 @@ function HornedBeast(props) {
         </span>
         Favorites: {favorites}
       </p>
-    </div>
+      </Col>
+      </Row>
+      </Container>
+   
   );
 }
 
