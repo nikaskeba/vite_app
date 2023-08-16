@@ -1,3 +1,36 @@
+
+
+
+Number and name of feature: Feature #1: Display a Modal Aug 16th 2023
+
+Estimate of time needed to complete: 120 minutes
+Start time: 12:30 pm
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
