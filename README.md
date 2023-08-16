@@ -6,9 +6,9 @@ Number and name of feature: Feature #1: Display a Modal Aug 16th 2023
 Estimate of time needed to complete: 120 minutes
 Start time: 12:30 pm
 
-Finish time: _____
+Finish time: 2:00
 
-Actual time needed to complete: _____
+Actual time needed to complete: 90 
 
 
 
