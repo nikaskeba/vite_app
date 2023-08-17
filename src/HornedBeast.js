@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 
 import { Card, Button, Modal } from 'react-bootstrap';
-import { Container, Row, Col } from 'react-bootstrap';
 function HornedBeast(props) {
   // Initialize state for favorites
   const [favorites, setFavorites] = useState(0);

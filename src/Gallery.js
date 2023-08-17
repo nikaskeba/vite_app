@@ -1,9 +1,7 @@
 import React from 'react';
 import data from './data.json'; // adjust the path if the JSON is in a different location
 import HornedBeast from './HornedBeast';
-import beast1Image from './assets/bowling1.jpeg';
-import beast2Image from './assets/hornedtennis.jpeg';
-import { Card, Button } from 'react-bootstrap';
+import { Card} from 'react-bootstrap';
 function Gallery() {
   return (
   <Card>
