@@ -1,4 +1,15 @@
-Netlify App: <a href="https://main--cute-pudding-a00a41.netlify.app/">App</a>
+Netlify Deployed Link: <a href="https://main--cute-pudding-a00a41.netlify.app/">App</a>
+
+Number and name of feature: Feature Exercise 4: Display a Modal Aug 19th 2023
+
+Estimate of time needed to complete: 60 minutes
+Start time: 3:00 pm
+
+Finish time: 4:00 pm
+
+Actual time needed to complete: 60 
+A question within the context of this lab assignment - Seemed like I could approach this in two ways, either a drop down or a an input box. As we only had 2 options, drop down seemed easier.
+An observation about the lab assignment, or related ‘Ah-hah!’ moment - Sorting works well and notice I could also add an iption for all in the future.
 
 
 Number and name of feature: Feature #1: Display a Modal Aug 16th 2023
